@@ -18,8 +18,17 @@ python calculator_v1.py
 
 ##Potential Future Improvements
 -Add a GUI
--Add exponents and the ability to process parenthesis
 -Add sciences and geometrical formulae
 
+##v2 Improvements
+-Added the ability to process exponents
+-Added the ability to process negative numbers
+-Added the ability to process parenthesis
+
+##v2 Instructions
+-When you run calculator_v2.py, you will be asked to enter an expression
+-Accepted operations are +, -, /, *, and ^
+-Parenthesis must be closed
+
 ##Screenshot 
--"calculator_v1_screenshot".png outlines how the game goes
+-"calculator_v2_screenshot".png outlines how the game goes
